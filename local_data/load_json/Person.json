@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Isha Agarwal",
+    "age" : "23",
+    "height" : "172",
+    "gender": "female",
+    "hair_color": "black"
+  },
+  {
+    "name" : "Rashi Agarwal",
+    "age" : "13",
+    "height" : "192",
+    "gender": "female",
+    "hair_color": "brown"
+  },
+  {
+    "name" : "Neelu Agarwal",
+    "age" : "45",
+    "height" : "152",
+    "gender": "female",
+    "hair_color": "black"
+  },
+  {
+  "name" : "Naveen Agarwal",
+  "age" : "56",
+  "height" : "200",
+  "gender": "male",
+  "hair_color": "white"
+}
+]
