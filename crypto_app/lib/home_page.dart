@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
 
 
 class HomePage extends StatefulWidget {
@@ -24,7 +22,7 @@ class _HomePageState extends State<HomePage> {
     return new Scaffold(
       appBar: new AppBar(
         title: new Text("Crypto App"),
-        
+
       ),
       body: _cryptoWidget() ,
     );
